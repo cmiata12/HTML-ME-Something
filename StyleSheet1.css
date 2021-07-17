@@ -1,0 +1,25 @@
+﻿body
+{
+   color: rebeccapurple;
+}
+h1 {
+
+    padding: 25px 50px 75px 100px;
+}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+ul.goals{
+    color: red;
+}
+
+}
+
+div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
